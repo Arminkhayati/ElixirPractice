@@ -44,4 +44,3 @@ defmodule Guess do
     guess(actual, x..y)
   end
 end
-clear
